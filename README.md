@@ -68,6 +68,7 @@ The purpose of this is to understand low-level coding and implementation. This i
 The intended audience of this project would be those interested in implementing an embedded system themselves and applying it to the real world, such as our colleagues in electrical engineering. The viewers will also include our teaching assistants and the professor overseeing our progress throughout this project.
 
 ## 2. Code  
+See Frogger.c
 
 ## 3. Explanation  
 ### 3.1 Hardcoding Dimensions  
